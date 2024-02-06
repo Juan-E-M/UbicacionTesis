@@ -1,0 +1,20 @@
+/*
+DISABLED
+ */
+.disabledDiv {
+    pointer-events: none;
+    opacity: 0.90;
+}
+/*
+VALIDACIONES
+ */
+label.error  {
+    background-color: #DC3545;
+    color: #ffffff;
+    border: 1px solid #DC3545;
+    border-radius: 5px;
+    padding: 3px;
+}
+input.error  {
+    border: 1px solid #DC3545;
+}

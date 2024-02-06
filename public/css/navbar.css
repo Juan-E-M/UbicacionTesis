@@ -1,0 +1,31 @@
+.ocNav{;
+    background: #576574;
+    letter-spacing: 3px;
+}
+
+.btnNav{
+    width: 37px;
+    height: 28px;
+    background-color: #576574;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    border-radius: 5px;
+    padding-top: 6px;
+    text-align:center;
+    vertical-align: middle;
+}
+
+.btnNav:hover{
+    background-color: #ffffff;
+    color: #576574;
+    display: inline-block;
+
+}
+
+.btnNav:hover .btnNavIcon {
+    color: #576574;
+}
+
+.btnNavIcon {
+    color: #ffffff;
+}
